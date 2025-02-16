@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm leelindscjuclcey649
 
-<!--
-**leelindscjuclcey649/leelindscjuclcey649** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚴 🌟 🎮 Creating amazing things with tech gadgets 🚴 🌟 🎮
 
-Here are some ideas to get you started:
+## About Me
+🚴 🚵 🏸 🥋 Always learning about project management 🚴 🚵 🏸 🥋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎱 💡 🚣 🎽 A passionate developer who loves computer vision 🎱 💡 🚣 🎽
+
+### Fun Facts
+🎯 🌟 Fascinated by back-end development 🎯 🌟
+
+---
+🏑 🎰 🌟 🏑 🎳 Thanks for visiting my profile! 🛼 🎱 🎾 🎽 🎻
